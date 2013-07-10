@@ -1,0 +1,7 @@
+parameters:
+#    acme_testtask.example.class: Acme\TesttaskBundle\Example
+
+services:
+#    acme_testtask.example:
+#        class: %acme_testtask.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
